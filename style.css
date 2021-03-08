@@ -1,0 +1,14 @@
+.wrap {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar {
+  margin-right: 40px;
+}
